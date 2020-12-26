@@ -55,7 +55,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": null,
-  "url": "",
-  "manifest": "",
+  "url": "https://github.com/gohblen/foundryvtt-whitehack/",
+  "manifest": "https://raw.githubusercontent.com/gohblen/foundryvtt-whitehack/main/system.json",
   "download": ""
 }
